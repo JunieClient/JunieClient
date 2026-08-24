@@ -1,10 +1,29 @@
 {
-  "latest_version": "2.3.0",
-  "download_url": "https://JunieClient.github.io/JunieClient/downloads/JunieClient_v2.3.0.exe",
-  "sha256": "PLACEHOLDER_HASH",
-  "changelog": [
-    "Rebranded project to Junie Client",
-    "Added Armor HUD, Hitboxes, and Fullbright toggles",
-    "Connected launcher to live web update system"
+  "format_version": 2,
+  "header": {
+    "name": "Junie Client Final",
+    "description": "Official Junie Client UI",
+    "uuid": "44444444-5555-6666-7777-888888888888",
+    "version": [1, 0, 53],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "type": "script",
+      "language": "javascript",
+      "uuid": "99999999-0000-1111-2222-333333333333",
+      "version": [1, 0, 6],
+      "entry": "scripts/main.js"
+    }
+  ],
+  "dependencies": [
+    {
+      "module_name": "@minecraft/server",
+      "version": "1.8.0"
+    },
+    {
+      "module_name": "@minecraft/server-ui",
+      "version": "1.2.0"
+    }
   ]
 }
