@@ -10,7 +10,7 @@ Tip: use feather to toggle something :0?
 How to Install
 Go to the Releases section on the right side of this page.
 
-Download the JunieClient_v5.24.mcpack file from the latest release.
+Download the JunieClient_v5.25.mcpack file from the latest release.
 
 Double-click or open the file to automatically import it into Minecraft Bedrock Edition.
 
