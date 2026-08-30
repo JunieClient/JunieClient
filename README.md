@@ -1,4 +1,4 @@
-Junie Client v5.25
+Junie Client v5.41
 Welcome to the official repository for Junie Client for Minecraft Bedrock Edition!! This client is packed with custom utility modules, fun cosmetics, performance enhancements, and builder tools designed to upgrade your gameplay experience.
 
 Highlights
