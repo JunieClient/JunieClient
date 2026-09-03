@@ -2,11 +2,15 @@ Kill Aura: With this module, you will be able to hit targets around you at 5cps 
 
 
 
+
 Target Health: Target Health makes it so that you see mobs and players HP: (20 hp = 10 mc hearts) This will give you a sense of awareness on when and when not to attack and how your oppent or how the "mob" is doing!
+
 
 
  
 Radar: The Radar does not show an ingame radar (like minimap) but it does show text of the amount of entities in your area, say you are playing hide and seek with a friend or friends and you have radar on. You will know that they are close without giving away their exact position so its still fun. 
+
+
 
 
 
@@ -22,15 +26,21 @@ Lava embers,
 Totem Revival ,
 Blossoms falling,
 Wax spec,
-Eletric Spark,
-Image 9 (Visual),
+Eletric Spark.
+
+
+
 
 
 Compass: This on screen directional compass shows you were North, East, West and South are and changes as you change directions, useful if you need to go a specific way!
 
 
 
+
+
 Item Tracker: Tracks dropped items up to 50m away, names the item, names how many of the item and then how far away you are, limited to 50m to prevent massive lag if too many dropped items are near. 
+
+
 
 
 
@@ -40,6 +50,9 @@ gg everyone!,
 On my way!,
 Need backup!,
 But also has a unique "add" feature in which you can add your own custom quick chat and it saves to your menu permanently! 
+
+
+
 
 
 
@@ -56,8 +69,14 @@ Death Location pings,
 Copy/share coords,
 Brodcast quick chats: list of more than 8 quick chats in game for you to use.,
 
+
+
+
  
 Pure invisiblity: No particle effects, no chat msgs indicating that you went invisible, pure mystery, pure fun, pure troll :D.
+
+
+
 
  
 Effects: Consist of 4 common effects to help enhance the gaming expierence if ever feeling like it, includes:
@@ -67,11 +86,19 @@ Jump Boost ll,
 Night Vision,
 Strenght ll,
 
+
+
+
+
  
 For all Builders out there!: There is a natural tree brush and a natural flora brush included in this client, natural tree brush, spawns in trees, unfortunatley it will be the same kind of tree. And the Flora brush will act as bonemeal but prettier (aka the "brushes" are bonemeal. 
 Step one toggle it on, 
 Step two, get bonemeal,
 Step three right click and watch da magic happen.
+
+
+
+
 
  
 We have more for fellow builders!: Consisting of :
@@ -87,11 +114,17 @@ Build support pillar(no matter how high you are, it will spawn a cobble stone pi
 Texturize area.
 
  
+
+
  
 
 And of course there is more little stuff to the client but those are the main features! Hope you enjoy, Have fun!! Dont forget to comment any issues(besides fishing) or recomendations. (I will make you aware that I am working on a mod right now and may not be too attentive to this one since its basically done but just let me know. :D
 
  
+
+
+
+
 
 How to Use
 Download and import the pack into your Minecraft Bedrock world.
