@@ -126,8 +126,8 @@ And of course there is more little stuff to the client but those are the main fe
 
 
 
-How to Use
-Download and import the pack into your Minecraft Bedrock world.
+How to Use:
+Download and import v5.41 of JunieClient into your Minecraft Bedrock world.
 
 Make sure Experimental Gameplay features are enabled, required by the script. (toggle BETA API on!)
 
