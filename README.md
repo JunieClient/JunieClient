@@ -11,19 +11,19 @@ Radar: The Radar does not show an ingame radar (like minimap) but it does show t
 
 
 Particles: Particles are fun little cosmetics added to the game to enhance the visual aspect, vibe and fun of the game, others will be able to see them as will you. Particles consists of the following: 
-end rod sparkes
-hearts
-blue notes
-flame trail
-redstone dust
-Happy villager sparkes
-Water droplets
-Lava embers
-Totem Revival 
-Blossoms falling
-Wax spec
-Eletric Spark
-Image 9 (Visual)
+end rod sparkes,
+hearts,
+blue notes,
+flame trail,
+redstone dust,
+Happy villager sparkes,
+Water droplets,
+Lava embers,
+Totem Revival ,
+Blossoms falling,
+Wax spec,
+Eletric Spark,
+Image 9 (Visual),
 
 
 Compass: This on screen directional compass shows you were North, East, West and South are and changes as you change directions, useful if you need to go a specific way!
@@ -36,25 +36,25 @@ Item Tracker: Tracks dropped items up to 50m away, names the item, names how man
 
 Quick Chats: There are quick chats in which have 3 basic quick chats 
 
-gg everyone!
-On my way!
-Need backup!
+gg everyone!,
+On my way!,
+Need backup!,
 But also has a unique "add" feature in which you can add your own custom quick chat and it saves to your menu permanently! 
 
 
 
 Overall Utilities: These settings consists of :
 
-Creative/Survial (button)
-Home Point
-Teleport to home point option
-Blink(aka teleport) 3-4 blocks
-Auto Fish(still in development) may not work
-Auto Respawn
-Quick Chats as featured above
-Death Location pings
-Copy/share coords
-Brodcast quick chats: list of more than 8 quick chats in game for you to use.
+Creative/Survial (button),
+Home Point,
+Teleport to home point option,
+Blink(aka teleport) 3-4 blocks,
+Auto Fish(still in development) may not work,
+Auto Respawn,
+Quick Chats as featured above,
+Death Location pings,
+Copy/share coords,
+Brodcast quick chats: list of more than 8 quick chats in game for you to use.,
 
  
 Pure invisiblity: No particle effects, no chat msgs indicating that you went invisible, pure mystery, pure fun, pure troll :D.
@@ -62,29 +62,29 @@ Pure invisiblity: No particle effects, no chat msgs indicating that you went inv
  
 Effects: Consist of 4 common effects to help enhance the gaming expierence if ever feeling like it, includes:
 
-Speed ll
-Jump Boost ll
-Night Vision
-Strenght ll
+Speed ll,
+Jump Boost ll,
+Night Vision,
+Strenght ll,
 
  
 For all Builders out there!: There is a natural tree brush and a natural flora brush included in this client, natural tree brush, spawns in trees, unfortunatley it will be the same kind of tree. And the Flora brush will act as bonemeal but prettier (aka the "brushes" are bonemeal. 
-Step one toggle it on 
-Step two, get bonemeal
-Step three right click and watch da magic happen
+Step one toggle it on, 
+Step two, get bonemeal,
+Step three right click and watch da magic happen.
 
  
 We have more for fellow builders!: Consisting of :
 
-Set Position 2
-Fill selection stone
-Clear sleection air
-Copy Blueprint(make a build and copy it )
-Paste Blueprint
-Rotate Blueprint 90 degrees
-Hollow selection box(if u a builder then yk)
-Build support pillar(no matter how high you are, it will spawn a cobble stone pillar below you!)
-Texturize area
+Set Position 2,
+Fill selection stone,
+Clear sleection air,
+Copy Blueprint(make a build and copy it ),
+Paste Blueprint,
+Rotate Blueprint 90 degrees,
+Hollow selection box(if u a builder then yk),
+Build support pillar(no matter how high you are, it will spawn a cobble stone pillar below you!),
+Texturize area.
 
  
  
