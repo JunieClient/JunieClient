@@ -132,3 +132,8 @@ Download and import v5.41 of JunieClient into your Minecraft Bedrock world.
 Make sure Experimental Gameplay features are enabled, required by the script. (toggle BETA API on!)
 
 Use the in-game method provided by the client to open the menu and start tweaking your settings! (Use Compass to open)!
+
+
+
+
+(@JunieClientDev)
